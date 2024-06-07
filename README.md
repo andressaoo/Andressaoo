@@ -1,16 +1,16 @@
-## Hi there 👋
+## bem vindo ao meu prfil 
 
-<!--
-**andressaoo/Andressaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é andressa estrela
 
-Here are some ideas to get you started:
+- estou estudando na [alura](https:\\www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+-  ultilizo esse espaço npara minha organização e compartilhar dos meus projetos desenvolvidos
+ 
+## você entrar em contato comigo  📩  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001109094139sp@al.educacao.sp.gov.br
+
+@euandyestrela
+
+![](https://tenor.com/pt-BR/view/broncos-hello-kitty-love-gif-19466274.gif)
+
